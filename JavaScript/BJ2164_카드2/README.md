@@ -1,6 +1,6 @@
 <div> 
   <h1>백준 2164. 카드 2</h1>  
-  <img src="../assets/BJ_silver4.svg" width="30" style="margin: 0 auto;" />
+  <img src="../../assets/BJ_silver4.svg" width="30" style="margin: 0 auto;" />
 </div>
 
 <br>
