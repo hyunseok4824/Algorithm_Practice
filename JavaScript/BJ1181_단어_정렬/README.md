@@ -47,9 +47,9 @@
 **`a.localeCompare(b)`**: 길이가 같을 경우, 유니코드/언어 설정을 고려한 정확한 사전순 정렬
 	**localeCompare**는 언어별 특수 문자나 대소문자 정렬 등에서도 정밀한 정렬을 지원한다.
 
-    ```javascript
+```javascript
     const wordList = [... new Set(input.splice(1).sort((a, b) => a.length - b.length || a.localeCompare(b)))].join("\n")
-    ```
+```
 
   ![alt text](solved1.png)
 
